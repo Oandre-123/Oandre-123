@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hej! 👋
 
-<!--
-**Oandre-123/Oandre-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Min Profil
+Jag heter Oliver Andreasson och studerar till **Civilingenjör inom Informationsteknik** på KTH. Just nu läser jag kurser inom nätverk och hårdvarusäkerhet.
 
-Here are some ideas to get you started:
+## Projekt
+Under läsåret kommer jag att publicera projekt relaterade till mina kurser som är relevanta för arbetslivet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📩 Kontakt
+**E-post:** andreasson.oliver@gmail.com \
+**LinkedIn:** www.linkedin.com/in/oliver-andreasson-3662a333a
+
+
