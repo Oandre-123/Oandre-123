@@ -8,6 +8,6 @@ Under läsåret kommer jag att publicera projekt relaterade till mina kurser som
 
 ## 📩 Kontakt
 **E-post:** andreasson.oliver@gmail.com \
-**LinkedIn:** www.linkedin.com/in/oliver-andreasson-3662a333a
+**LinkedIn:** www.linkedin.com/in/oliver-andreasson
 
 
