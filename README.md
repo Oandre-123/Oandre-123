@@ -1,6 +1,6 @@
-# Hej! 👋
+# Hej!
 
-## 🚀 Min Profil
+## Min Profil
 Jag heter Oliver Andreasson och studerar till **Civilingenjör inom Informationsteknik** på KTH. Just nu läser jag kurser inom nätverk och hårdvarusäkerhet. Under min studietid på KTH, kommer jag här publicera projekt relaterade till mina kurser som är relevanta för arbetslivet.
 
 ## Projekt
